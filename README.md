@@ -11,7 +11,7 @@
 
   
 ### Description:
-An application that uses Express.js on the backend to save and retrieve notes for the user.  User data is stored and retrieved from a JSON file which eliminates the use of local storage.
+An application that uses Express.js on the backend that saves and retrieves notes for the user.  User data is stored and retrieved from a JSON file which eliminates the use of local storage.
 
 ### Screenshots: 
 
